@@ -1,0 +1,31 @@
+# Power Parks Research Questions & Scope
+
+## Project Overview
+The "Power Parks" concept explores the co-location of renewable energy generation (e.g., solar, wind), storage, and data center or AI computing infrastructure in urban or peri-urban areas. This approach supports decarbonization, community benefits, and efficient land use.
+
+## Main Research Question
+How can artificial intelligence (AI), specifically natural language processing (NLP) and large language models (LLMs), be leveraged to analyze zoning policies, community feedback, market research and spatial data to support equitable siting of "Power Parks" in urban environments?
+
+## Sub-Questions
+1. **Zoning & Policy Analysis**
+   - What zoning barriers and opportunities currently exist for renewable energy and data center siting?
+   - How can AI tools help summarize and interpret complex zoning codes and planning documents?
+
+2. ** Market, Community & Equity Considerations**
+   - How do community concerns (e.g., environmental justice, land use equity) surface in public comments and hearings?
+   - Can NLP reveal sentiment patterns or recurring equity themes in community feedback?
+   - Can NLP reveal current market trends from Re
+
+3. **Spatial Opportunity Mapping**
+   - Which areas (by zoning district, land use, infrastructure access) present the highest potential for Power Parks?
+   - How can spatial data integration highlight opportunities while addressing community risks?
+
+## Objectives
+- Build a prototype tool integrating NLP-based policy analysis with geospatial visualization.
+- Generate policy insights and siting recommendations to support equitable Power Parks development.
+- Produce a white paper summarizing research findings, policy implications, and next steps.
+
+## Target Deliverables
+- NLP + spatial analysis tool (prototype, e.g., Streamlit or notebook-based).
+- White paper or policy brief (~5–10 pages).
+- Presentation deck (~10–12 slides).
